@@ -1,1 +1,7 @@
-// dummy content
+lockfileVersion: 5.4
+specifiers:
+  typescript: ^5.0.0
+packages:
+  /typescript/5.0.0:
+    resolution: {integrity: sha512-fakehash}
+    dev: true

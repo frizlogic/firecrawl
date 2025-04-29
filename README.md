@@ -1,1 +1,2 @@
-// dummy content
+# Firecrawl
+Minimal Firecrawl clone for Cloud Run deployment.
